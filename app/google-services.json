@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295448032805",
+    "firebase_url": "https://bandung-creative-hub-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bandung-creative-hub",
+    "storage_bucket": "bandung-creative-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295448032805:android:d994e8c88088c3f64831cc",
+        "android_client_info": {
+          "package_name": "com.moriss.bandungcreativehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF58gywOKIiTnuo48KXXGcGckeZBQRx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

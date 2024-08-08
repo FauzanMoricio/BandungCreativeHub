@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Bandung Creative Hub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="hari">Senin - Minggu</string>
+    <string name="buka">Buka - 08.00 AM</string>
+    <string name="tutup">Tutup - 21.00 PM</string>
+
+
+    <string name="Deskripsi">“Bandung Creative Hub merupakan pusat kegiatan kreatif di Bandung. Sebagai bagian dari rencana Pemerintah Kota Bandung untuk mengembangkan beberapa creative hub di sekitar kota, Bandung Creative Hub berfungsi untuk memfasilitasi pertemuan antar berbagai sektor industri kreatif. Kehadiran Bandung Creative Hub dapat membangun ikatan yang kuat antar pelaku industri kreatif di Bandung. Dari konvergensi dan inkubasi ide, industri yang berkembang benar-benar dapat memaksimalkan potensi Bandung #BandungCreativeHub.”</string>
+
+    <string name="note">Silahkan hubungi kontak diatas\nJika ingin menanyakan terkait informasi kegiatan atau ruangan pada Bandung Creative Hub </string>
+
+
+    <string name="alamat">Jl. Laswi No.7, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271</string>
+    <string name="instagram">creativehub.bdg</string>
+    <string name="situs">creativehub_bdg</string>
+
+    <string name="f1">Studio Musik</string>
+    <string name="f2">Tempat Seni</string>
+    <string name="f3">Ruang Rapat</string>
+    <string name="f4">Ruang Baca</string>
+    <string name="f5">Auditorium</string>
+
+    <string name="d1">Denah Lantai 1</string>
+    <string name="d2">Denah Lantai 2</string>
+    <string name="d3">Denah Lantai 3</string>
+    <string name="d4">Denah Lantai 4</string>
+    <string name="d5">Denah Lantai 5</string>
+
+
+    <string name="kg1">Latihan Modeling dan Public Spkeaking</string>
+    <string name="kagjam1">Jumat, Pukul 13.00 - 18.00\nStudio Fesyen Lt5</string>
+
+    <string name="kg2">Bounjour (Bandung of Journaling)</string>
+    <string name="kagjam2">Minggu, Pukul 09.00 - 12.00\nLittle emily, Bandung</string>
+
+    <string name="kg3">Cooking Class Camilan Kekinian</string>
+    <string name="kagjam3">Rabu, Pukul 13.00 - 15.30\nAula, Lt5</string>
+
+    <string name="kg4">Kelas Mendongen dan Origami</string>
+    <string name="kagjam4">Sabtu, Pukul 10.00 - 11.30\nPerpustakaan</string>
+</resources>
+
+
